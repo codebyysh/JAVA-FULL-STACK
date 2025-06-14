@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.Duration;
 import java.util.Arrays;
-
+  
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
@@ -20,7 +20,9 @@ import org.junit.jupiter.api.TestInstance;
  * Unit test for simple App.
  */
 
-@TestInstance(TestInstance.Lifecycle.PER_CLASS)
+@TestInstance(TestInstance.Lifecycle.PER_CLASS) // this class is for the whole purpose jb aapko 
+// sb kuch hi ek baar me krna ho aur ye object jo bnega vo sirf ek baar ke liye bnega pure program 
+// baki log uska reference hi use le skte h
 public class AppTest {
 
     /**
