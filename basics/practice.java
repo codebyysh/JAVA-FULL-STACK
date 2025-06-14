@@ -1,3 +1,4 @@
+package basics;
 
 abstract class Car {
     public abstract void drive () ;

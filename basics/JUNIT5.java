@@ -1,3 +1,4 @@
+package basics;
 
 class Calc {
     // one unit 
