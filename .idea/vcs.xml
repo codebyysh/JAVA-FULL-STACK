@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core + adv_java/servelet/src/main/java/com/servelet/start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core + adv_java/servelet/target/classes/com/servelet/start" vcs="Git" />
   </component>
 </project>
